@@ -1,6 +1,6 @@
 import react from "react";
 
-import Bai1 from "./lab6/bai2";
+import Bai1 from "./Lab7/bottom_tab";
 const App = () => {
   return <Bai1></Bai1>;
 };
