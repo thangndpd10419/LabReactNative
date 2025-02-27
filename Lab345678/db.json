@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "John Doet",
+      "birthday": "01-01-1994",
+      "id": "1",
+      "image": "img.png"
+    },
+    {
+      "name": "Cuc tinh y",
+      "birthday": "04-02-1995",
+      "id": "2",
+      "image": "img1.png"
+    },
+    {
+      "name": "thang",
+      "birthday": "06-01-2005",
+      "id": "8f5e",
+      "image": "img2.png"
+    }
+  ]
+}
